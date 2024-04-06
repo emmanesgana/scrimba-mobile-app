@@ -63,7 +63,7 @@ ul {
 
 ul li {
     font-size: 20px;
-    background-color: #fac149;
+    background-color: #fff;
     color: #432000;
     padding: 15px;
     border-radius: 8px;
@@ -73,7 +73,7 @@ ul li {
 }
 
 ul li:hover {
-    background-color: #fdb415;
+    background-color: #fac149;
     cursor: pointer;
     color: #ffffff;
 }
