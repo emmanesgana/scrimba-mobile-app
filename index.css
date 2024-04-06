@@ -71,7 +71,7 @@ ul li {
 }
 
 ul li:hover {
-    background-color: #AA888C;
+    background-color: #fff563;
     cursor: pointer;
     color: #fff;
 }
