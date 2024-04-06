@@ -50,6 +50,7 @@ button {
 button:hover {
     background-color: #0ee26d;
     cursor: pointer;
+    color: #fff;
 }
 
 ul {
@@ -63,7 +64,7 @@ ul {
 ul li {
     font-size: 20px;
     background-color: #fac149;
-    color: #fff;
+    color: #432000;
     padding: 15px;
     border-radius: 8px;
     flex-grow: 1;
@@ -72,6 +73,7 @@ ul li {
 }
 
 ul li:hover {
+    background-color: #fdb415;
     cursor: pointer;
-    color: #432000;
+    color: #ffffff;
 }
