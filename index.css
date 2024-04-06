@@ -4,7 +4,7 @@ html, body {
     font-family: 'Rubik', sans-serif;
     color: #432000;
     user-select: none;
-    background-color: #c4e8f6;
+    background-color: #85D4FF;
 }
 
 .container {
@@ -15,7 +15,7 @@ html, body {
     padding: 30px;
     background-color: #f0ece0;
     border-radius: 20px;
-    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.1);
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);
 }
 
 img {
